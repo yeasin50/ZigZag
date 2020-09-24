@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fcf6f1a458ceb04aae1f0be160db519
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dimond: {fileID: 1853723599754463457, guid: 34ed3fd59ce5ead429f7eb26459529b3,
+      type: 3}
+  - platform: {fileID: 2423327715538599454, guid: 2446c77bd852a004881a706ce50c6776,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
